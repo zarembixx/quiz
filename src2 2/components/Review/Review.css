@@ -1,0 +1,33 @@
+.review {
+    text-align: left;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .review h2 {
+    text-align: center;
+  }
+  
+  .review-item {
+    margin-bottom: 20px;
+  }
+  
+  .review-item p {
+    margin: 5px 0;
+  }
+  
+  .restart-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .restart-button:hover {
+    background-color: #218838;
+  }
+  
